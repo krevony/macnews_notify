@@ -1,5 +1,5 @@
 # macnews_notify
-
+![icon](http://i.imgur.com/xtCQkam.png)
 [Download here](https://appsto.re/kr/rRRw6.i)  
 
 ## 새소식 알림  
